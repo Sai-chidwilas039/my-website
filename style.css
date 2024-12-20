@@ -24,6 +24,10 @@ body{
     z-index: 100;
 }
 
+p span{
+    cursor: pointer;
+}
+
 span{
     color: #00abf0;
 }
